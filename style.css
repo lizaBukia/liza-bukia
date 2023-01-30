@@ -1,0 +1,102 @@
+#logo{
+    width: 150px;
+    padding-left: 30px;
+}
+.d-flex{
+    padding: 25px 0;
+}
+#tbilisi-img{
+   width: 500px;
+   height: 700px;
+}
+#bauhaus{
+    width: 500px;
+   height: 700px; 
+}
+#glitch{
+    width: 500px;
+    height: 700px; 
+}
+#papercut{
+    width: 700px;
+    height: 700px; 
+}
+header{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+}
+ .container-wide{
+    
+    justify-content: space-between;
+    
+}
+.wrapper{
+    padding: 50px 10px;
+}
+.d-flex{
+   
+    justify-content: flex-start ;
+}
+    header ul{
+        display: flex;
+        justify-content: space-between;
+        justify-content: flex-end;
+        gap: 50px;
+    }
+a{
+    text-decoration: none;
+    color: inherit;}
+nav li:hover {
+    color: blueviolet;}
+ footer ul{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-between;
+    gap: 60px;
+}
+    footer{
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    footer li:hover{
+        color: rgb(143, 141, 145);
+    font-size: 50px;
+    }
+
+        body{
+            background-color: rgb(207, 203, 209);
+        }
+    footer{
+        background-color: rgb(73, 63, 82);
+        padding: 25px 0;
+        margin-top: 130px;
+        
+        
+    }
+body{
+    font-family: 'BPG Nino Mtavruli';
+}
+h2{
+    font-family: 'BPG Nino Mtavruli Bold';
+}
+#liza{
+    width: 700px;
+    height: 600px;
+}
+h2{
+    border: 2px;
+    
+}
+section{
+    justify-content:center !important;
+}
+.container{
+    padding: 30px 10px;
+}
+header{
+    font-size: 20px;
+}
